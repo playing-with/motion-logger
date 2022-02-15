@@ -45,7 +45,6 @@
 // #include "SSD1306Spi.h"
 // OR #include "SH1106SPi.h"
 
-
 // Optionally include custom images
 #include "images.h"
 
